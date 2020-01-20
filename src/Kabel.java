@@ -1,3 +1,4 @@
 public class Kabel {
-    String nazwa;
+    String nazwa = "Hdmi";
+    
 }
